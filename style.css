@@ -1,0 +1,40 @@
+/* style.css */
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Header styling */
+h1 {
+    color: #3c6fa8;
+}
+h2 {
+    color: #3c6fa8;
+    font-size: 20px;
+}
+
+/* Paragraph styling */
+.info {
+    font-size: 14px;
+    color: #fffefe;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #757da1;
+
+}
+
+.subdir-details {
+    font-size: 14px;
+    color: #fffefe;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #c1c4d1;
+}
+
+.info p, .subdir-details p {
+    margin: 10px;
+}
